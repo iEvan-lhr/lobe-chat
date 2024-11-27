@@ -4,10 +4,10 @@
 
 export const LOBE_CHAT_CLOUD = 'LobeChat Cloud';
 
-export const BRANDING_NAME = 'LobeChat';
+export const BRANDING_NAME = '亿想家';
 export const BRANDING_LOGO_URL = '';
 
-export const ORG_NAME = 'LobeHub';
+export const ORG_NAME = 'MDLZ One Portal';
 
 export const BRANDING_URL = {
   help: undefined,
